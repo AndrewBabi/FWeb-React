@@ -1,0 +1,22 @@
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: brown;
+  position: relative;
+  padding-left: 40%;
+}
+
+#input1 {
+ background-color: rgb(138, 136, 136);
+ position: relative;
+ left: 40%;
+}
+
+#play {
+  background-color: rgb(141, 141, 141);
+  position: relative;
+  left: 41%;
+}

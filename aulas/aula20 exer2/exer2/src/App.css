@@ -1,0 +1,55 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+  height: 100vh;
+  width: 100vw;
+}
+
+.login { 
+  flex-direction: column;
+  height: 50vh;
+  width: 30vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(to right, aquamarine, blue);
+  border-radius: 10px;
+}
+.container2 {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+  background: linear-gradient(to right, aquamarine, blue);
+  height: 55%;
+  width: 67%;
+  flex-direction: column;
+  box-shadow: 30px;
+  
+  
+}
+
+body {
+  background-color: rgb(139, 139, 139);
+  margin: 0;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+}
+
+
+input {
+  border-radius: 10px;
+}
+
+#play {
+ position: absolute;
+ top: 670px;
+ padding-inline: 100px;
+}
